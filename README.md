@@ -1,2 +1,2 @@
 # Fun
-clean, high performance, functional library using modern c++ features
+clean, high performance, functional programming library using modern c++ features
